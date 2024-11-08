@@ -4,3 +4,6 @@ h1{
 button{
     background-color: #28a745;
 }
+h1.hover{
+    color:yellow;
+}
